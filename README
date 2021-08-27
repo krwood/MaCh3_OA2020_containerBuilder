@@ -1,0 +1,3 @@
+A container with the software stack for running the T2K run 1-10 (2020) MaCh3 oscillation analysis.
+
+getTheCode.sh gets the code and the Dockerfile builds the container.
